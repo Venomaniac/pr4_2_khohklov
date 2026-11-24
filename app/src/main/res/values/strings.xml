@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_solved_label">Solved</string>
+    <string name="crime_solved_snackbar">Crime marked as solved!</string>
+    <string name="new_crime">Add Crime</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report">%1$s! The crime was discovered on %2$s. %3$s, and %4$s</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_report_no_suspect">there is no suspect.</string>
+    <string name="crime_report_suspect">the suspect is %s.</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="crime_call_suspect_text">Call Suspect</string>
+    <string name="crime_no_suspect_phone">This suspect has no phone number on file.</string>
+    <string name="crime_contacts_permission_denied">Permission to read contacts was denied, so the number can\'t be looked up.</string>
+    <string name="crime_save_text">Save</string>
+    <string name="crime_delete_text">Delete</string>
+    <string name="crime_title_required">Enter a title for the crime first.</string>
+    <string name="crime_suspect_phone">Phone: %s</string>
+    <string name="crime_no_contacts_app">No contacts app was found on this device.</string>
+    <string name="crime_no_dialer_app">No phone app was found on this device.</string>
+    <string name="crime_list_empty">No crimes yet. Tap \"Add Crime\" to create one.</string>
+    <string name="crime_list_no_suspect">No suspect chosen</string>
+    <string name="crime_list_suspect">Suspect: %1$s</string>
+    <string name="crime_list_suspect_phone">Suspect: %1$s, %2$s</string>
+</resources>

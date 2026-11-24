@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IntentoCriminal</string>
+    <string name="crime_title_hint">Introduzca un título para el crimen.</string>
+    <string name="crime_title_label">Título</string>
+    <string name="crime_details_label">Detalles</string>
+    <string name="crime_solved_label">Solucionado</string>
+    <string name="crime_solved_snackbar">¡Crimen marcado como resuelto!</string>
+    <string name="new_crime">Crimen Nuevo</string>
+    <string name="crime_suspect_text">Elegir Sospechoso</string>
+    <string name="crime_report_text">Enviar el Informe del Crimen</string>
+    <string name="crime_report">%1$s! El crimen fue descubierto el %2$s. %3$s, y %4$s</string>
+    <string name="crime_report_solved">El caso está resuelto</string>
+    <string name="crime_report_unsolved">El caso no está resuelto</string>
+    <string name="crime_report_no_suspect">no hay sospechoso.</string>
+    <string name="crime_report_suspect">el/la sospechoso/a es %s.</string>
+    <string name="crime_report_subject">IntentoCriminal Informe del Crimen</string>
+    <string name="send_report">Enviar el informe del crimen a través de</string>
+    <string name="crime_call_suspect_text">Llamar al Sospechoso</string>
+    <string name="crime_no_suspect_phone">Este sospechoso no tiene número de teléfono.</string>
+    <string name="crime_contacts_permission_denied">Se denegó el permiso para leer los contactos.</string>
+    <string name="crime_save_text">Guardar</string>
+    <string name="crime_delete_text">Eliminar</string>
+    <string name="crime_title_required">Primero introduzca un título para el crimen.</string>
+    <string name="crime_suspect_phone">Teléfono: %s</string>
+    <string name="crime_no_contacts_app">No se encontró ninguna aplicación de contactos.</string>
+    <string name="crime_no_dialer_app">No se encontró ninguna aplicación de teléfono.</string>
+    <string name="crime_list_empty">Aún no hay crímenes. Pulse \"Crimen Nuevo\" para crear uno.</string>
+    <string name="crime_list_no_suspect">Sin sospechoso</string>
+    <string name="crime_list_suspect">Sospechoso: %1$s</string>
+    <string name="crime_list_suspect_phone">Sospechoso: %1$s, %2$s</string>
+</resources>
